@@ -1,4 +1,5 @@
-grunt-seminar
-=============
+Frontend workflow seminar
+=========================
 
-A seminar introducing the benefits of using a task runner like Grunt
+1. Managing packages with Bower
+- Running tasks with Grunt
