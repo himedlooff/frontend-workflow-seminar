@@ -1,6 +1,6 @@
-A commone platform for writing frontend tools
-=============================================
+A common platform for frontend tools
+====================================
 
-_Or, "why we need to install node.js"._
+_(or, why we need to install node.js)_
 
 
