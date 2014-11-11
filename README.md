@@ -7,8 +7,9 @@ _You're working on a project with other developers and you need to add some func
 
 There's a problem here, aside from the lack of communication. There's no clear or established workflow. There's no process outlined telling developers what to do. In response to this a number of frontend tools have emerged. They help us to answer the following questions:
 
-- What libraries and scripts are being used in this project, what versions are we using and how do we update them or add new ones?
-- What is the process for embedding new things in our pages and how can we automate the tasks needed to do so?
+**What libraries and scripts are being used in this project, what versions are we using and how do we update them or add new ones?**
+
+**What is the process for embedding new things in our pages and how can we automate the tasks needed to do so?**
 
 We will cover the following tools and set up a consistent workflow for dealing with these common issues. Future developers will thank you and your future self will thank you, because sometimes coming back to a project after a few months isn't as easy as it seems.
 
