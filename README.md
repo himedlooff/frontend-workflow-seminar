@@ -1,5 +1,5 @@
-Why?
-====
+The advantage of frontend workflows and tools
+=============================================
 
 Common frontend scenario...
 
@@ -10,10 +10,14 @@ There's a problem here, aside from the lack of communication. There's no clear o
 - What libraries and scripts are being used in this project, and what versions are we using?
 - What is the process from obtaining these to placing them in our pages?
 
-We will cover a few of these tools and set up a consistent workflow for dealing with these common issues. Future developers will thank you. Heck even your future self will thank you, because sometimes coming back to a project after a few months isn't as easy as it seems.
+We will cover the following tools and set up a consistent workflow for dealing with these common issues. Future developers will thank you and your future self will thank you, because sometimes coming back to a project after a few months isn't as easy as it seems.
+
+1. The universal tool: the command line
+- Managing libraries with [Bower](http://bower.io/)
+- Automating tasks with [Grunt](http://gruntjs.com/)
 
 ---
 
-Next: [The universal tool that makes this all happen](cli.md)
+Next: [The universal tool: the command line](cli.md)
 
 ---
