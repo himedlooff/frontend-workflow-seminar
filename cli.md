@@ -43,7 +43,7 @@ Interested in what files or folders are in the working directory?
 ls
 ```
 
-This command stands for "list", and gives you a list of all of the files and folders in the current folder. Compare what your CLI is showing to the folder that the CLI opened when you typed `open .`. They should show the same files and folders.
+`ls` stands for "list", and gives you a list of all of the files and folders in the current folder. Compare what your CLI is showing to the folder that the CLI opened when you typed `open .`. They should show the same files and folders.
 
 **Output**
 
