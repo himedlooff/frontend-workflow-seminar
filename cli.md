@@ -101,6 +101,6 @@ Now that we have some CLI basics out of the way we can move on to installing Bow
 
 ---
 
-Next: ...
+Next: [A common platform for frontend tools (or, why we need to install Node.js)](nodejs.md)
 
 ---
