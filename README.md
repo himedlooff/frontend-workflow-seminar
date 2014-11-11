@@ -1,5 +1,5 @@
-The advantage of frontend workflows and tools
-=============================================
+The advantages of frontend workflows and tools
+==============================================
 
 Common frontend scenario...
 
