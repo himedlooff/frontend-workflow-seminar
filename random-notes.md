@@ -1,12 +1,6 @@
 Random notes
 ============
 
-## Presentation order:
-
-1. Command line, the universal tool
-- Managing packages with [Bower](http://bower.io/)
-- Running tasks with [Grunt](http://gruntjs.com/)
-
 ## Bower package ideas
 
 - https://github.com/mdo/preboot
