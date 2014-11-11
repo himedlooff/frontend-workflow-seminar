@@ -49,3 +49,44 @@ Library			    Sites
 ```
 
 This command stands for "list", and gives you a list of all of the files and folders in the current folder. Compare what your CLI is showing to the folder that the CLI opened when you typed `open .`. They should show the same files and folders.
+
+Now let's make a new folder for our project.
+
+**Input**
+
+```bash
+mkdir frontend-tools-demo
+```
+
+Then:
+
+```bash
+ls
+```
+
+**Output**
+
+```bash
+Applications		Movies			    VirtualBox VMs
+Desktop			    Music			    frontend-tools-demo
+Documents		    PdaNetUninstall.sh	lib
+Downloads		    Pictures		    npm-debug.log
+Dropbox			    Public			    tmp
+Library			    Sites
+```
+
+`mkdir` stands for "make directory". You should now have a new folder in the working directory. We'll use this folder as an example project folder. To move into it type the following:
+
+```bash
+cd frontend-tools-demo
+```
+
+`cd` stands for "change directory". Note that if you type `cd front` then press the `tab` key, the CLI will attempt to autocomplete the directory name based on the list of files in the working directory.
+
+Now that we have some CLI basics out of the way we can move on to installing Bower, a tool to help us manage the different libraries we use in our projects.
+
+---
+
+Next: ...
+
+---
