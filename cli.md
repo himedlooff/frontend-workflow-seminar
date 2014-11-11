@@ -9,7 +9,7 @@ It all starts with the command line interface or CLI, the universal tool. It all
 open .
 ```
 
-`.` means the current folder that the CLI is in. If you're ever interested in knowing what folder you're currently in you can ask it:
+`.` means the current folder that the CLI is in.
 
 **Output**
 
@@ -17,6 +17,8 @@ open .
 
 ---
 
+If you're ever interested in knowing what folder you're currently in you can ask it:
+ 
 **Input**
 
 ```bash
