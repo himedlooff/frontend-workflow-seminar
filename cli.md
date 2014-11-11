@@ -1,7 +1,7 @@
 The command line
 ================
 
-It all starts with the command line interface or CLI, the universal tool. It allows you to interact directly with your operating system by typing commands. Issuing commands are done by first typing the command and then pressing the `enter` key. For example try the following command to open a folder on your computer:
+It all starts with the command line interface or CLI, the universal tool. It allows you to interact directly with your operating system by typing commands. On Mac you can interact with the CLI using the Terminal app. Issuing commands are done by first typing the command into Terminal and then pressing the `enter` key. For example try the following command to open a folder on your computer:
 
 **Input**
 ```bash
