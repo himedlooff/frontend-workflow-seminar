@@ -1,7 +1,7 @@
 The advantages of frontend workflows and tools
 ==============================================
 
-Common frontend scenario...
+A common scenario...
 
 _You're working on a project with other developers and you need to add some functionality. You download the script, place it somewhere in the project folder, embed it on the page along with all the other existing scripts and move on. Later, another developer comes along needing similar functionality for a different page. They download the most up to date version of the same script, place it in a different folder, embed it on their page and move on._
 
