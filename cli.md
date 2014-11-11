@@ -33,7 +33,7 @@ Interested in what files or folders are in the working directory?
 
 **Input**
 
-```
+```bash
 ls
 ```
 
