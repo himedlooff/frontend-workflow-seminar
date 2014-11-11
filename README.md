@@ -14,6 +14,7 @@ There's a problem here, aside from the lack of communication. There's no clear o
 We will cover the following tools and set up a consistent workflow for dealing with these common issues. Future developers will thank you and your future self will thank you, because sometimes coming back to a project after a few months isn't as easy as it seems.
 
 1. The universal tool: the command line
+- A common language for frontend tools: [Node.js](http://nodejs.org/)
 - Managing libraries with [Bower](http://bower.io/)
 - Automating tasks with [Grunt](http://gruntjs.com/)
 
