@@ -11,7 +11,7 @@ open .
 
 **Output**
 
-![placeholder: screenshot of the folder it opened]()
+![screenshot of the folder it opened]()
 
 `.` means the current folder that the CLI is in. If you're ever interested in knowing what folder you're currently in you can ask it:
 
