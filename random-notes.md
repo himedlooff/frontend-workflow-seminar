@@ -13,6 +13,10 @@ Random notes
 - Grunt
 - Gruntfile.js
 
+## CLI
+
+- <http://prework.flatironschool.com/web-development/>
+
 ## NPM
 
 **What is it?**
